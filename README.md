@@ -4,7 +4,7 @@
 - 😄 Pronouns: She/her
 
 
-<div style="display: inline_block:" margin-top: 10px><br>
+<div style="display: inline_block:" margin-top: 10px margin-bottom: 10px><br>
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
