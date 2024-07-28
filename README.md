@@ -1,10 +1,10 @@
 ### Hello! I'm Joyce Monteiro! 👋
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and react
 - 😄 Pronouns: She/her
 
 
-<div style="display: inline_block:"margin: 10px><br>
+<div style="display: flex:justify-content:"space-around"><br>
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
