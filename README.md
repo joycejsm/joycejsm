@@ -45,7 +45,8 @@
   - *Remove produtos do carrinho*
   - *Atualiza quantidade de itens no carrinho.*
   - [**Link do projeto funcionando**](https://joycejsm.github.io/buenas-shop/)
-- [**Web Scrapper da Amazon**](https://github.com/joycejsm/test-project-repository) → Web scrapper da Amazon feito com *Bun* e estilo lo-fi.  
+- [**Web Scrapper da Amazon**](https://github.com/joycejsm/test-project-repository) → Web scrapper da Amazon feito com *Bun* e estilo lo-fi.
+  -[**Link do projeto funcionando**](https://test-project-repository-one.vercel.app/)   
 - [**Dashboard Financeiro**](https://github.com/joycejsm/aplicacao-financeira) → Consumo de API + **gráficos interativos** (React + Recharts).
 - [**API com Node e Mongo DB**](https://github.com/joycejsm/server-programaria) → Minha primeira API - Mulheres na Tecnologia
   -  API feito com Node.js, Express, Nodemon e MongoDB. Esta API possui um CRUD para listar, cadastrar, atualizar e deletar informações de mulheres que são importantes no mundo da tecnologia.
