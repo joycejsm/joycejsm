@@ -43,7 +43,8 @@
 - [**Carrinho de compras em TypeScript**](https://github.com/joycejsm/buenas-shop) → Carrinho de compras com TypeScript Listagem de produtos vindos da mock API
   - *Adiciona produtos ao carrinho*
   - *Remove produtos do carrinho*
-  - *Atualiza quantidade de itens no carrinho.*  
+  - *Atualiza quantidade de itens no carrinho.*
+  - [**Link do projeto funcionando**](https://joycejsm.github.io/buenas-shop/)
 - [**Web Scrapper da Amazon**](https://github.com/joycejsm/test-project-repository) → Web scrapper da Amazon feito com *Bun* e estilo lo-fi.  
 - [**Dashboard Financeiro**](https://github.com/joycejsm/aplicacao-financeira) → Consumo de API + **gráficos interativos** (React + Recharts).
 - [**API com Node e Mongo DB**](https://github.com/joycejsm/server-programaria) → Minha primeira API - Mulheres na Tecnologia
