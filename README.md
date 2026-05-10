@@ -1,72 +1,119 @@
-### 👋 Hello! I'm Joyce Monteiro  
+# 👋 Hello, I'm Joyce Monteiro
 
-👩‍💻 Desenvolvedora Fullstack | Foco em **React, Node.js e PostgreSQL**  
-🎯 Em transição de carreira para tecnologia, com experiência prática em **frontend, backend e projetos colaborativos**.  
-🌱 Atualmente aprofundando conhecimentos em **TypeScript e boas práticas de arquitetura**.  
+Desenvolvedora Fullstack com foco em **React, Node.js, TypeScript e PostgreSQL**.
+
+Tenho experiência prática com desenvolvimento frontend/backend, consumo e construção de APIs REST, bancos de dados e projetos colaborativos ágeis.
+
+Atualmente aprofundando conhecimentos em arquitetura de aplicações, backend escalável e cloud computing.
 
 ---
 
-### 🚀 Skills
+## 🚀 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, Bootstrap, TypeScript  
-**Backend:** Node.js, Express, PostgreSQL, Sequelize, Prisma  
-**Ferramentas:** Git, GitHub, Bitbucket  
+### Frontend
+React • TypeScript • JavaScript • HTML • CSS • Bootstrap
+
+### Backend
+Node.js • Express • PostgreSQL • Prisma • Sequelize
+
+### Ferramentas & Cloud
+Git • GitHub • Bitbucket • AWS Cloud Practitioner
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgresql logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="38" alt="prisma logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="aws logo"/>
 </div>
 
 ---
 
-### 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
-- [**Carrinho de compras em TypeScript**](https://github.com/joycejsm/buenas-shop) → Carrinho de compras com TypeScript Listagem de produtos vindos da mock API
-  - *Adiciona produtos ao carrinho*
-  - *Remove produtos do carrinho*
-  - *Atualiza quantidade de itens no carrinho.*
-  - [**Link do projeto funcionando**](https://joycejsm.github.io/buenas-shop/)
-- [**Web Scrapper da Amazon**](https://github.com/joycejsm/test-project-repository) → Web scrapper da Amazon feito com *Bun* e estilo lo-fi.
-   - [**Link do projeto funcionando**](https://test-project-repository-one.vercel.app/)   
-- [**Dashboard Financeiro**](https://github.com/joycejsm/aplicacao-financeira) → Consumo de API + **gráficos interativos** (React + Recharts).
-- [**API com Node e Mongo DB**](https://github.com/joycejsm/server-programaria) → Minha primeira API - Mulheres na Tecnologia
-  -  API feito com Node.js, Express, Nodemon e MongoDB. Esta API possui um CRUD para listar, cadastrar, atualizar e deletar informações de mulheres que são importantes no mundo da tecnologia.
-  - [**Link do projeto completo**](https://frontend-programaria-kappa.vercel.app/)
+### 🛒 [Buenas Shop](https://github.com/joycejsm/buenas-shop)
 
+Aplicação frontend de e-commerce desenvolvida com TypeScript consumindo dados de uma Mock API.
 
+#### Funcionalidades
+- Adição e remoção de produtos no carrinho
+- Atualização dinâmica de quantidade
+- Gerenciamento de estado da aplicação
+- Consumo de API externa
 
----
+**Stack:** React • TypeScript • Context API • Mock API
 
-### 📬 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joycesilvamonteiro)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joycejsm96@gmail.com)  
+🔗 [Deploy do projeto](https://joycejsm.github.io/buenas-shop/)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 [Dashboard Financeiro](https://github.com/joycejsm/aplicacao-financeira)
+
+Dashboard interativo para visualização de dados financeiros utilizando gráficos dinâmicos e consumo de API.
+
+**Stack:** React • Recharts • JavaScript • APIs REST
+
+---
+
+### 🌐 [API Mulheres na Tecnologia](https://github.com/joycejsm/server-programaria)
+
+API REST desenvolvida com Node.js e MongoDB para cadastro e gerenciamento de mulheres relevantes na tecnologia.
+
+#### Funcionalidades
+- CRUD completo
+- Estrutura REST
+- Integração frontend/backend
+- Persistência de dados com MongoDB
+
+**Stack:** Node.js • Express • MongoDB
+
+🔗 [Projeto completo](https://frontend-programaria-kappa.vercel.app/)
+
+---
+
+### 🕷️ [Amazon Web Scraper](https://github.com/joycejsm/test-project-repository)
+
+Projeto experimental de web scraping desenvolvido com Bun.js.
+
+**Stack:** Bun • JavaScript
+
+🔗 [Deploy do projeto](https://test-project-repository-one.vercel.app/)
+
+---
+
+## 🔭 Atualmente
+
+- Estudando arquitetura backend e boas práticas de aplicações escaláveis
+- Aprimorando conhecimentos em TypeScript
+- Explorando cloud computing com AWS
+- Desenvolvendo aplicações fullstack
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joycesilvamonteiro)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joycejsm96@gmail.com)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joycejsm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joycejsm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joycejsm&show_icons=true&theme=tokyonight"/>
 
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joycejsm&layout=compact&theme=tokyonight"/>
+</div>
