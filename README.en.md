@@ -1,101 +1,111 @@
-# 👋 Hi, I'm Joyce Monteiro
+<div align="center">
 
-🇧🇷 [Leia em português](README.md)
+<img src="assets/header.en.svg" alt="8-bit owl says hello: Hello, world! I'm Joyce. Software Developer, Backend, Cloud and product vision." width="100%"/>
 
-**Software Developer | Backend, Cloud & Product-minded Engineering**
+<a href="README.md">🇧🇷 Ler em português</a>
 
-I build backend and cloud software, and I start from the problem before the code. I've shipped REST APIs, authentication and multi-tenant systems, and serverless AWS workflows with AI — and I've done it under real time pressure, in hackathons where the whole point is to go from a vague idea to something people can actually use.
+</div>
 
-My path is a little unusual: a bachelor's degree in Tourism, a career built around customer-facing work, and then a move into software through Full Stack training, a technical residency, open-source-style collaboration, and a lot of hackathons. That background is a big part of how I work: I think about who the user is, what they're struggling with, and what the smallest useful version looks like.
+I build backend and cloud software, and I start with the problem before the code. I've shipped REST APIs, authentication and multi-tenancy systems, and AI-powered serverless workflows on AWS, in hackathons where the goal was to go from a vague idea to something people can actually use.
 
-## ✨ What I bring
+My background includes a Full Stack program, a technical residency, collaborative projects and many hackathons. It shapes how I work: I think about who the user is, what their pain is, and what the smallest useful version is that solves the problem.
 
-- **Product thinking, not just implementation.** I use Lean Inception to align a team on the problem, the persona, and the MVP before anyone opens an editor. At the Artemisia × Ada Tech hackathon, my team was the only one to bring user-centered storytelling and a visible agile process into the pitch.
-- **Spec-driven development with AI agents.** I write clear specs, user stories and acceptance criteria, then work with AI coding agents to build against them, and I review, test, and own what ships. It's how a small team can move fast without losing structure.
-- **Backend and security fundamentals.** Authentication, authorization, JWT, and multi-tenancy are my home turf.
-- **Cloud and applied AI.** AWS serverless architectures, document processing with Textract, LLMs on Bedrock, RAG, and event-driven pipelines.
-- **Communication.** I can explain a technical decision to a teammate, a mentor, or a judging panel, and I take on the glue work (specs, QA, demos) that makes a project actually land.
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-## 🚀 Featured Projects
+## ✨ What I bring to the team
 
-### 🏆 Extrato Popular — AI-powered financial insights for low-income Brazilian consumers
+- **Product vision, beyond implementation.** I use Lean Inception to align the team on the problem, persona and MVP before opening the editor. At the Artemisia × Ada Tech hackathon, my team was the only one to bring user-centered storytelling and a visible agile process to the pitch.
+- **Spec-driven development with AI agents.** I write clear specs, user stories and acceptance criteria, build with AI agents from them, and own what goes to production: I review, test and validate. That is how a small team gains speed without losing structure.
+- **Solid backend and security foundations.** Authentication, authorization, JWT and multi-tenancy are where I feel at home.
+- **Cloud and applied AI.** Serverless architectures on AWS, document processing with Textract, LLMs on Bedrock, RAG and event-driven pipelines.
+- **Communication.** I can explain a technical decision to a teammate, a mentor or a review panel, and I take on the "glue" work (spec, QA, demo) that gets a project across the finish line.
 
-**1st place | Artemisia × Ada Tech Hackathon (Elas+ Tech)**
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-A RAG-based platform that turns confusing financial data into plain-language insights for people who are usually underserved by fintech. Built by a team of four.
+## 🚀 Featured projects
 
-- Owned **authentication, security and multi-tenancy** (Java 21, Spring Boot 3, Spring Security, JWT).
-- Ran a lean **Lean Inception** and kept the product centered on the end user, the person who uses and pays for the solution; our persona carried the storytelling in the final pitch.
-- Delivered **297 automated tests with 95.2% code coverage** (JaCoCo) and **93.3% compliance** with the hackathon's evaluation criteria.
+### 🏆 Extrato Popular — AI-powered financial insights for low-income consumers
 
-**Stack:** Java 21 · Spring Boot 3 · Spring Security · JWT · Multi-tenancy · RAG
+**1st place** · Artemisia × Ada Tech Hackathon (Elas+ Tech)
+
+A RAG-based platform that turns confusing financial data into plain-language guidance for people who are usually left out of fintechs. Team of four.
+
+- Owned authentication, security and multi-tenancy (Java 21, Spring Boot 3, Spring Security, JWT).
+- Ran a streamlined Lean Inception and kept the product centered on the end user; our persona was the thread of the storytelling in the final pitch.
+- Delivered **297 automated tests** with **95.2% code coverage** (JaCoCo) and **93.3% compliance** with the call's evaluation criteria.
+
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `Multi-tenancy` `RAG`
 
 ### 📄 DocuSmart Seguros — Insurance claims processing on AWS
 
-**Hack2Hire | Escola da Nuvem (EDN)**
+**Hack2Hire** · Escola da Nuvem (EDN)
 
-An end-to-end serverless solution that automates insurance claim intake and triage, with a customer portal and an analyst portal. AI summarizes each claim so a human analyst can accept, deny, or escalate it, keeping a person in the loop for the decision.
+An end-to-end serverless solution that automates claim intake and triage, with a customer portal and an analyst portal. AI summarizes each claim so a human analyst can approve, deny or escalate the case, keeping a person in the decision.
 
-- After the team shrank from five people to one, I took over the **technical spec (16 pages), architecture, QA and the final demo**.
-- Designed the flow with **Amazon Bedrock (Nova Pro)**, **Strands Agents**, **Textract**, **SQS with dead-letter queues**, **API Gateway**, **S3** and **DynamoDB**.
+- When the team went from five people to one, I took over the technical spec (16 pages), the architecture, QA and the final demo.
+- Designed the flow with Amazon Bedrock (Nova Pro), Strands Agents, Textract, SQS with dead-letter queues, API Gateway, S3 and DynamoDB.
 - Wrote user journeys, business rules and user stories with acceptance criteria, and ran end-to-end tests.
 
-**Stack:** AWS Lambda · Bedrock · Strands Agents · Textract · SQS/DLQ · API Gateway · DynamoDB · S3
+`AWS Lambda` `Bedrock` `Strands Agents` `Textract` `SQS/DLQ` `API Gateway` `DynamoDB` `S3`
 
-### ⚡ Agents for Ecommerce — Event-driven pipeline with LLMs
+### ⚡ Agents for Ecommerce — Event-driven pipeline with an LLM
 
 **deco.studio Hackathon**
 
-An event-driven pipeline built with **Cloudflare Workers and Queues**, a **NestJS** service running in **Docker**, and an LLM integration with **Gemini**.
+An event-driven pipeline built with Cloudflare Workers and Queues, a NestJS service running in Docker, and an LLM integration (Gemini).
 
-**Stack:** Cloudflare Workers · Queues · NestJS · Docker · Gemini
+`Cloudflare Workers` `Queues` `NestJS` `Docker` `Gemini`
 
-## 🛠️ Tech Stack
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-**Backend & APIs**
-Java · Spring Boot · Spring Security · Node.js · NestJS · Express · REST · JWT · Swagger/OpenAPI
+## 🛠️ Technologies
 
-**Cloud, AI & Automation**
-AWS (Lambda, S3, SQS, DynamoDB, API Gateway, Bedrock, Textract) · Cloudflare Workers · RAG · Agentic workflows · Docker
+<img src="assets/stack-terminal.en.svg" alt="Animated terminal listing the technologies I use" width="100%"/>
 
-**Frontend**
-React · TypeScript · JavaScript · HTML · CSS
+<details>
+<summary>View as text</summary>
 
-**Databases**
-PostgreSQL · MongoDB · DynamoDB · Prisma · Sequelize · SQL
+| Area | Technologies |
+| :-- | :-- |
+| **Backend and APIs** | Java · Spring Boot · Spring Security · Node.js · NestJS · Express · REST · JWT · Swagger/OpenAPI |
+| **Cloud, AI and automation** | AWS (Lambda, S3, SQS, DynamoDB, API Gateway, Bedrock, Textract) · Cloudflare Workers · RAG · Agentic workflows · Docker |
+| **Frontend** | React · TypeScript · JavaScript · HTML · CSS |
+| **Databases** | PostgreSQL · MongoDB · DynamoDB · Prisma · Sequelize · SQL |
+| **Ways of working** | Lean Inception · Spec-driven development (OpenSpec) · Agile · Git/GitHub · Linux · AI-assisted workflows |
 
-**Ways of working**
-Lean Inception · Spec-driven development (OpenSpec) · Agile · Git/GitHub · Linux · AI-assisted workflows
+</details>
 
-## 🌱 Earlier Projects
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-Hands-on projects from my Full Stack training, where I learned the fundamentals by building them:
+## 🌱 Earlier projects
 
-- 🛒 [**Buenas Shop**](https://github.com/joycejsm/buenas-shop): React + TypeScript e-commerce front end with cart logic and Context API · [Live demo](https://joycejsm.github.io/buenas-shop/)
-- 📊 [**Financial Dashboard**](https://github.com/joycejsm/aplicacao-financeira): React + Recharts dashboard consuming a REST API
-- 🌐 [**Women in Tech API**](https://github.com/joycejsm/server-programaria): Node.js, Express and MongoDB CRUD API · [Front-end demo](https://frontend-programaria-kappa.vercel.app/)
-- 🕷️ [**Web Scraper**](https://github.com/joycejsm/test-project-repository): Bun + JavaScript scraping experiment · [Live demo](https://test-project-repository-one.vercel.app/)
+Projects from my Full Stack training, where I learned the fundamentals by building:
 
-## 🎓 Education & Certifications
+- 🛒 **Buenas Shop** — e-commerce in React + TypeScript with cart logic and Context API · [Demo](#)
+- 📊 **Financial Dashboard** — dashboard in React + Recharts consuming a REST API
+- 🌐 **Mulheres na Tecnologia API** — CRUD API with Node.js, Express and MongoDB · [Front-end demo](#)
+- 🕷️ **Web Scraper** — scraping experiment with Bun + JavaScript · [Demo](#)
+
+## 🎓 Education and certifications
 
 - **AWS Certified Cloud Practitioner** (valid through 2028)
-- **Back-end Java Track** (Ada, Elas+ Tech)
-- **Full Stack Development** (Capacita Brasil / C-Jovem, with a 3-month React residency)
-- **Service Desk** (ITIL 4, Active Directory, ticketing and knowledge-base practices)
-- **B.A. in Tourism** (IFCE)
-- English C2 · Spanish intermediate
+- Java Back-end Track — Ada, Elas+ Tech
+- Full Stack Development — Capacita Brasil / C-Jovem, with a 3-month technical residency in React
+- Service Desk — ITIL 4, Active Directory, ticketing practices and knowledge base
+- Bachelor's degree in Tourism — IFCE
+- English C2 · Intermediate Spanish · Native Portuguese
+
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🔭 Currently
 
-- Working as a developer and support on freelance projects for Nuvemshop stores.
-- Going deeper on AWS and cloud architecture with Escola da Nuvem.
-- Looking for opportunities in **software development** and **technical / cloud support**, where I can combine engineering, product sense, and care for the user.
+<img src="assets/currently.en.svg" alt="Building my experience with every project. Open to opportunities in software development and technical support / cloud." width="100%"/>
 
-## 📫 Connect with Me
+## 📫 Let's talk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joycesilvamonteiro)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joycejsm96@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"/></a>
+  <a href="mailto:joycejsm96@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020" alt="Email"/></a>
+</p>
 
----
-
-*I like building software that solves real problems for real people, and I like figuring out which problem to solve first.*
+<sub>I like building software that solves real problems for real people, and figuring out which problem to solve first.</sub>
