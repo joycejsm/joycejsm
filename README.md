@@ -103,8 +103,8 @@ Projetos práticos da minha formação Full Stack, onde aprendi os fundamentos c
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joycejsm&show_icons=true&theme=tokyonight"/>
 
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joycejsm&layout=compact&theme=tokyonight"/>
-</div>
+</div> -->
