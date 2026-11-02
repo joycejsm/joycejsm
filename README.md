@@ -81,10 +81,10 @@ Pipeline orientado a eventos com Cloudflare Workers e Queues, um serviço em Nes
 
 Projetos da minha formação Full Stack, onde aprendi os fundamentos construindo:
 
-- 🛒 **Buenas Shop** — e-commerce em React + TypeScript com lógica de carrinho e Context API · [Demo](#)
+- 🛒 **Buenas Shop** — e-commerce em React + TypeScript com lógica de carrinho e Context API · [Demo](https://joycejsm.github.io/buenas-shop/)
 - 📊 **Financial Dashboard** — dashboard em React + Recharts consumindo uma API REST
 - 🌐 **Mulheres na Tecnologia API** — API CRUD com Node.js, Express e MongoDB · [Demo do front-end](#)
-- 🕷️ **Web Scraper** — experimento de scraping com Bun + JavaScript · [Demo](#)
+- 🕷️ **Web Scraper** — experimento de scraping com Bun + JavaScript · [Demo](https://test-project-repository-one.vercel.app/)
 
 ## 🎓 Formação e certificações
 
@@ -104,7 +104,7 @@ Projetos da minha formação Full Stack, onde aprendi os fundamentos construindo
 ## 📫 Vamos conversar
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/joycesilvamonteiro/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1020" alt="LinkedIn"/></a>
   <a href="mailto:joycejsm96@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1020" alt="Email"/></a>
 </p>
 
