@@ -48,13 +48,17 @@ Solução serverless ponta a ponta que automatiza a entrada e a triagem de sinis
 
 `AWS Lambda` `Bedrock` `Strands Agents` `Textract` `SQS/DLQ` `API Gateway` `DynamoDB` `S3`
 
-### ⚡ Agents for Ecommerce — Pipeline orientado a eventos com LLM
+### 📋 Kanban de Vagas — Gestão visual e centralizada de processos seletivos
 
-**Hackathon deco.studio**
+**Projeto autoral** · [Ver aplicação online](https://kanban-vagas-nine.vercel.app)
 
-Pipeline orientado a eventos com Cloudflare Workers e Queues, um serviço em NestJS rodando em Docker e integração com LLM (Gemini).
+Aplicação web desenvolvida a partir de uma dor real: a dificuldade de acompanhar candidaturas dispersas em múltiplas plataformas de contratação, reunindo todo o histórico em um fluxo visual por etapas de processo seletivo.
 
-`Cloudflare Workers` `Queues` `NestJS` `Docker` `Gemini`
+- Estruturei a experiência em colunas de Kanban (da candidatura à proposta), com autenticação segura via Google OAuth para gerenciamento individual.
+- Construí com Next.js (App Router, Server Actions) e interface focada em usabilidade e agilidade para a rotina diária de buscas.
+- Projeto finalizado, testado e em produção na Vercel.
+
+`Next.js` `React` `TypeScript` `Google OAuth` `Tailwind CSS` `Vercel`
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 

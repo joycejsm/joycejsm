@@ -48,13 +48,17 @@ An end-to-end serverless solution that automates claim intake and triage, with a
 
 `AWS Lambda` `Bedrock` `Strands Agents` `Textract` `SQS/DLQ` `API Gateway` `DynamoDB` `S3`
 
-### ⚡ Agents for Ecommerce — Event-driven pipeline with an LLM
+### 📋 Job Tracker Kanban — Visual, centralized management for job applications
 
-**deco.studio Hackathon**
+**Personal project** · [View live app](https://kanban-vagas-nine.vercel.app)
 
-An event-driven pipeline built with Cloudflare Workers and Queues, a NestJS service running in Docker, and an LLM integration (Gemini).
+A web application born out of a real-world pain point: tracking job applications scattered across multiple hiring platforms, bringing everything together into a visual workflow by interview stages.
 
-`Cloudflare Workers` `Queues` `NestJS` `Docker` `Gemini`
+- Designed a Kanban-style experience (from applied to offer), with secure Google OAuth authentication for personal tracking.
+- Built with Next.js (App Router, Server Actions) and a responsive UI focused on usability and speed for the daily search routine.
+- Fully finished, tested, and running in production on Vercel.
+
+`Next.js` `React` `TypeScript` `Google OAuth` `Tailwind CSS` `Vercel`
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
